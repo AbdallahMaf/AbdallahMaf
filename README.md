@@ -1,3 +1,3 @@
 # MAFConcept
-![Cover](https://abdallahmaf.github.io/MAFConcept/#/img/cover.png)
+![Cover](https://abdallahmaf.github.io/MAFConcept/#/main/img/cover.png)
 Hi 👋🏾, I'm Mohamed Abdallah FALL
