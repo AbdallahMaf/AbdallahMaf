@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 
 ![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png)
 
