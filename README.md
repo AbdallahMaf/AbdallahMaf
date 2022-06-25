@@ -17,11 +17,9 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
 </div>
 
-![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png)
+<!-- ![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png) -->
 
-
-
-
-<!--  -->
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
