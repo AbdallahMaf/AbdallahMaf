@@ -13,13 +13,15 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbdallahMaf&style=flat-square&color=blue" alt=""/>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png)
 
 
 
 
-
+<!-- https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif -->
 
 
