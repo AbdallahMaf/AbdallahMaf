@@ -11,10 +11,11 @@
   <a href="https://twitter.com/Mohamed48166481">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=AbdallahMaf&style=flat-square&color=blue" alt=""/>
-<div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=AbdallahMaf&style=flat-square&color=blue" alt=""/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
+  </div>
 </div>
 
 <!-- ![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png) -->
