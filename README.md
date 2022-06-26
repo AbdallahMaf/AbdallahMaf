@@ -1,8 +1,9 @@
 <div id="header" align="center">
+
 ---
 
-### :woman_technologist: Hi 👋🏾, I'm Mohamed Abdallah FALL.
-  <h3>Hi 👋🏾, I'm Mohamed Abdallah FALL.</h3>
+### :hand: Hi 👋🏾, I'm Mohamed Abdallah FALL.
+  <!-- <h3>Hi 👋🏾, I'm Mohamed Abdallah FALL.</h3> -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
   <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-abdallah-fall-61b6a020a/">
