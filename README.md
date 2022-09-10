@@ -62,8 +62,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/AbdallahMaf/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
-
-  
 </div>
 
 ---
