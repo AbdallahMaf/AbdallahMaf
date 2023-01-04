@@ -80,3 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdallahMaf&theme=vision-friendly-dark&show_icons=true)
+
+
+## Snake eating my contribution graph
+
+![snake gif](https://github.com/YOUR_USERNAME/AbdallahMaf/blob/output/github-contribution-grid-snake.gif)
