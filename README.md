@@ -2,6 +2,9 @@
 
 ### Hi 👋🏾, I'm Mohamed Abdallah FALL.
   <!-- <h3>Hi 👋🏾, I'm Mohamed Abdallah FALL.</h3> -->
+   <div align="center">
+    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
+  </div>
 
 ---
 
@@ -21,9 +24,7 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AbdallahMaf&style=flat-square&color=blue" alt=""/>
-  <div align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="600" height="300"/>
-  </div>
+
 </div>
 
 <!-- ![Cover](https://github.com/AbdallahMaf/AbdallahMaf/blob/main/img/cover.png) -->
