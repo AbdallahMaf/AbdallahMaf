@@ -89,6 +89,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdallahMaf&theme=vision-friendly-dark&show_icons=true)
 
+[![committers.top badge](https://user-badge.committers.top/senegal/AbdallahMaf.svg)](https://user-badge.committers.top/senegal/AbdallahMaf)
+
+
 ---
 
 ## :snake: Snake eating my contribution graph :
