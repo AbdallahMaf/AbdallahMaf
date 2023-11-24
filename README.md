@@ -91,11 +91,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![committers.top badge](https://user-badge.committers.top/senegal/AbdallahMaf.svg)](https://user-badge.committers.top/senegal/AbdallahMaf)
 
-
+<!--
 ---
 
-## :snake: Snake eating my contribution graph :
+ ## :snake: Snake eating my contribution graph :
 
-![snake gif](https://github.com/AbdallahMaf/AbdallahMaf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbdallahMaf/AbdallahMaf/blob/output/github-contribution-grid-snake.svg) 
+-->
 
 
